@@ -1,20 +1,21 @@
 {
-  "name": "jath",
-  "author": "Dan Newcome, @dnewcome",
-  "description": "Declarative XML-to-JSON transformation",
-  "version": "0.0.3",
-  "main": "./jath.js",
-  "dependencies": {
-    "libxmljs": "0.8.1"
+  "author": {
+    "name": "Dan Newcome, @dnewcome"
   },
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Tom Spencer",
       "email": "fiznool@gmail.com"
     },
     {
       "name": "Matthew Robertson"
-    } 
-  ]
+    }
+  ],
+  "description": "Declarative XML-to-JSON transformation",
+  "devDependencies": {
+    "libxmljs": "0.8.1"
+  },
+  "main": "./jath.js",
+  "name": "jath",
+  "version": "0.0.3"
 }
-
